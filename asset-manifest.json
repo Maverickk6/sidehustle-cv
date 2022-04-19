@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidehustle-cv/static/css/main.6ef39d21.css",
+    "main.js": "/sidehustle-cv/static/js/main.dfd28cb1.js",
+    "index.html": "/sidehustle-cv/index.html",
+    "main.6ef39d21.css.map": "/sidehustle-cv/static/css/main.6ef39d21.css.map",
+    "main.dfd28cb1.js.map": "/sidehustle-cv/static/js/main.dfd28cb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef39d21.css",
+    "static/js/main.dfd28cb1.js"
+  ]
+}
